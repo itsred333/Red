@@ -1,7 +1,7 @@
 {
-  "version": "12.2.7",
+  "version": "12.2.10",
   "title": "New Update Available!",
-  "NewVersion": "12.2.7",
+  "NewVersion": "12.2.10",
   "downloadLink": "https://telegram.me/red_stonn",
   "changeLogMessage": "-Enhanced stability with bug fixes\n- Improved overall performance for a smoother experience\n- Exciting new features and enhancements",
   "negativebtn": "Later",
